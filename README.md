@@ -1,4 +1,4 @@
-# Codeforces-solution
+# Codeforces-Solution
 Contains Solutions to codeforces.com problems 
 
 | S No. | Problem Name | Problem Link | Solution |  
