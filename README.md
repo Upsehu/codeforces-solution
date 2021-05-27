@@ -1,1 +1,6 @@
 # Codeforces-solution
+Contains Solutions to codeforces.com problems 
+
+| S No. | Problem Name | Problem Link | Problem Solution |  
+| ----- | ------------ | ------------ | ---------------- |
+| 1 |352-B|[352-B](https://codeforces.com/problemset/problem/352/B)|[C++](./c++/352-B-117460029.cpp)|
